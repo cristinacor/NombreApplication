@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NombreApplication</string>
+    <string name="nombre">Nombre</string>
+    <string name="Password">Password</string>
+    <string name="Recordar">Recordar</string>
+    <string name="boton">Entrar</string>
+    <string name="Saludo">Saludo</string>
+    <string name="Notificaciones">Notificaciones</string>
+    <string name="Listado">Listado</string>
+    <string name="ListadoNotas">Listado Notas</string>
+    <string name="Toast">Toast</string>
+    <string name="Snack">Snack</string>
+</resources>
